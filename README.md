@@ -2,7 +2,7 @@
 ## _Một điều nho nhỏ tỏ tình với Dúi_
 
 Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/byeonjang/)
+[![Facebook](https://i.imgur.com/mWO1ozE.png](https://www.facebook.com/byeonjang/)
 [![Instagram](https://user-images.githubusercontent.com/86823053/124242337-d6a0fb00-db46-11eb-812f-bc96b052dd76.png)](https://www.instagram.com/_colaphn_/)
 
 ```
