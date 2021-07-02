@@ -3,7 +3,7 @@
 
 Liên lạc: 
 [![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/byeonjang/)
-[![Instagram](https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/07/82/27/07822726-3435-19fc-c23b-1559166a340a/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)](https://www.instagram.com/_colaphn_/)
+[![Instagram](https://rubee.com.vn/admin/webroot/upload/image/images/bai-viet/logo-instagram-5.jpg](https://www.instagram.com/_colaphn_/)
 
 ```
 const CONFIG = {
