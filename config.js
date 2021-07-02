@@ -7,7 +7,7 @@ const CONFIG = {
     btnIntro: 'Em yêu anh',
     title: 'Anh có đang cần một cái ôm không nạ😙',
     desc: 'Em rất nhớ anh. CHúng ta mau gặp lại nhau nha! ',
-    btnYes: 'Cần lắm <33',
+    btnYes: 'Cần lắm chứ <33',
     btnNo: 'Cực kỳ cần nhaaa :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
     btnReply: 'Gửi cho em <3',
